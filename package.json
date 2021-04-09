@@ -1,11 +1,11 @@
 {
-  "name": "graphql-mqtt-subscriptions",
-  "version": "1.2.0",
+  "name": "@declanbyrd/graphql-mqtt-subscriptions",
+  "version": "0.1.0",
   "description": "A graphql-subscriptions PubSub Engine using mqtt protocol",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidyaha/graphql-mqtt-subscriptions.git"
+    "url": "https://github.com/declanbyrd/graphql-mqtt-subscriptions.git"
   },
   "keywords": [
     "graphql",
@@ -13,12 +13,12 @@
     "apollo",
     "subscriptions"
   ],
-  "author": "David Yahalomi",
+  "author": "Declan Byrd",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/davidyaha/graphql-mqtt-subscriptions/issues"
+    "url": "https://github.com/declanbyrd/graphql-mqtt-subscriptions/issues"
   },
-  "homepage": "https://github.com/davidyaha/graphql-mqtt-subscriptions",
+  "homepage": "https://github.com/declanbyrd/graphql-mqtt-subscriptions",
   "scripts": {
     "compile": "tsc --noUnusedParameters --noUnusedLocals",
     "pretest": "npm run compile",
